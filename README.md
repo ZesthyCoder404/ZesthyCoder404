@@ -2,7 +2,7 @@
 - 👀 I’m interested in : Programming (like most of GitHub users i guess..) and 
 - 🌱 I’m currently learning : Javascript
 - 💞️ I’m looking to collaborate on : Idk, maybe on Javascript projects (when i will improve ofc)
-- 📫 How to reach me : On Discord, my username is : __zesthy__. You can add me if you want
+- 📫 How to reach me : On Discord, my username is : _ zesthy _. You can add me if you want
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Snakes can predict earthquakes
 
